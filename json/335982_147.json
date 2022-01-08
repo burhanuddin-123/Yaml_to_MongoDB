@@ -1,0 +1,21 @@
+{
+    "innings": "2nd innings",
+    "team": "Royal Challengers Bangalore",
+    "delivery_no": "3.3",
+    "batsman": "JH Kallis",
+    "bowler": "I Sharma",
+    "extras": {
+        "wides": 1
+    },
+    "non_striker": "W Jaffer",
+    "runs": {
+        "batsman": 0,
+        "extras": 0,
+        "total": 0
+    },
+    "_id": "335982_147",
+    "wicket": {
+        "kind": "bowled",
+        "player_out": "V Kohli"
+    }
+}

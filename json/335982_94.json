@@ -1,0 +1,24 @@
+{
+    "innings": "1st innings",
+    "team": "Kolkata Knight Riders",
+    "delivery_no": "14.7",
+    "batsman": "BB McCullum",
+    "bowler": "CL White",
+    "extras": {
+        "wides": 2
+    },
+    "non_striker": "DJ Hussey",
+    "runs": {
+        "batsman": 6,
+        "extras": 0,
+        "total": 6
+    },
+    "_id": "335982_94",
+    "wicket": {
+        "fielders": [
+            "P Kumar"
+        ],
+        "kind": "caught",
+        "player_out": "RT Ponting"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "innings": "2nd innings",
+    "team": "Royal Challengers Bangalore",
+    "delivery_no": "14.7",
+    "batsman": "P Kumar",
+    "bowler": "I Sharma",
+    "extras": {
+        "legbyes": 1
+    },
+    "non_striker": "SB Joshi",
+    "runs": {
+        "batsman": 0,
+        "extras": 0,
+        "total": 0
+    },
+    "_id": "335982_223",
+    "wicket": {
+        "kind": "bowled",
+        "player_out": "Z Khan"
+    }
+}

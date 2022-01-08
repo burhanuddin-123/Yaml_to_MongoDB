@@ -1,0 +1,24 @@
+{
+    "innings": "1st innings",
+    "team": "Kolkata Knight Riders",
+    "delivery_no": "15.1",
+    "batsman": "DJ Hussey",
+    "bowler": "AA Noffke",
+    "extras": {
+        "wides": 2
+    },
+    "non_striker": "BB McCullum",
+    "runs": {
+        "batsman": 0,
+        "extras": 0,
+        "total": 0
+    },
+    "_id": "335982_95",
+    "wicket": {
+        "fielders": [
+            "P Kumar"
+        ],
+        "kind": "caught",
+        "player_out": "RT Ponting"
+    }
+}

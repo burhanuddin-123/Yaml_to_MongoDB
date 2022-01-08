@@ -1,0 +1,24 @@
+{
+    "innings": "1st innings",
+    "team": "Kolkata Knight Riders",
+    "delivery_no": "13.6",
+    "batsman": "BB McCullum",
+    "bowler": "SB Joshi",
+    "extras": {
+        "wides": 1
+    },
+    "non_striker": "DJ Hussey",
+    "runs": {
+        "batsman": 2,
+        "extras": 0,
+        "total": 2
+    },
+    "_id": "335982_87",
+    "wicket": {
+        "fielders": [
+            "P Kumar"
+        ],
+        "kind": "caught",
+        "player_out": "RT Ponting"
+    }
+}

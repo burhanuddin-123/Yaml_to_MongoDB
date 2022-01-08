@@ -1,0 +1,17 @@
+{
+    "innings": "1st innings",
+    "team": "Kolkata Knight Riders",
+    "delivery_no": "3.1",
+    "batsman": "BB McCullum",
+    "bowler": "AA Noffke",
+    "extras": {
+        "wides": 5
+    },
+    "non_striker": "SC Ganguly",
+    "runs": {
+        "batsman": 0,
+        "extras": 5,
+        "total": 5
+    },
+    "_id": "335982_20"
+}

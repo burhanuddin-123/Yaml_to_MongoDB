@@ -1,0 +1,24 @@
+{
+    "innings": "1st innings",
+    "team": "Kolkata Knight Riders",
+    "delivery_no": "5.4",
+    "batsman": "RT Ponting",
+    "bowler": "Z Khan",
+    "extras": {
+        "legbyes": 1
+    },
+    "non_striker": "BB McCullum",
+    "runs": {
+        "batsman": 0,
+        "extras": 0,
+        "total": 0
+    },
+    "_id": "335982_36",
+    "wicket": {
+        "fielders": [
+            "JH Kallis"
+        ],
+        "kind": "caught",
+        "player_out": "SC Ganguly"
+    }
+}

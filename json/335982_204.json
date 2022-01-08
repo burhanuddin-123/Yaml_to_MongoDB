@@ -1,0 +1,25 @@
+{
+    "innings": "2nd innings",
+    "team": "Royal Challengers Bangalore",
+    "delivery_no": "12.1",
+    "batsman": "P Kumar",
+    "bowler": "LR Shukla",
+    "extras": {
+        "legbyes": 1
+    },
+    "non_striker": "Z Khan",
+    "runs": {
+        "batsman": 6,
+        "extras": 0,
+        "total": 6
+    },
+    "_id": "335982_204",
+    "wicket": {
+        "fielders": [
+            "AB Agarkar",
+            "WP Saha"
+        ],
+        "kind": "run out",
+        "player_out": "AA Noffke"
+    }
+}

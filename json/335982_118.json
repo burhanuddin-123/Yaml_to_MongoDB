@@ -1,0 +1,24 @@
+{
+    "innings": "1st innings",
+    "team": "Kolkata Knight Riders",
+    "delivery_no": "18.6",
+    "batsman": "Mohammad Hafeez",
+    "bowler": "JH Kallis",
+    "extras": {
+        "wides": 2
+    },
+    "non_striker": "BB McCullum",
+    "runs": {
+        "batsman": 4,
+        "extras": 0,
+        "total": 4
+    },
+    "_id": "335982_118",
+    "wicket": {
+        "fielders": [
+            "CL White"
+        ],
+        "kind": "caught",
+        "player_out": "DJ Hussey"
+    }
+}

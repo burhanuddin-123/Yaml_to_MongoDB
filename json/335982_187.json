@@ -1,0 +1,24 @@
+{
+    "innings": "2nd innings",
+    "team": "Royal Challengers Bangalore",
+    "delivery_no": "9.3",
+    "batsman": "P Kumar",
+    "bowler": "SC Ganguly",
+    "extras": {
+        "wides": 1
+    },
+    "non_striker": "AA Noffke",
+    "runs": {
+        "batsman": 0,
+        "extras": 0,
+        "total": 0
+    },
+    "_id": "335982_187",
+    "wicket": {
+        "fielders": [
+            "WP Saha"
+        ],
+        "kind": "caught",
+        "player_out": "CL White"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "innings": "1st innings",
+    "team": "Kolkata Knight Riders",
+    "delivery_no": "0.6",
+    "batsman": "BB McCullum",
+    "bowler": "P Kumar",
+    "extras": {
+        "wides": 1
+    },
+    "non_striker": "SC Ganguly",
+    "runs": {
+        "batsman": 0,
+        "extras": 0,
+        "total": 0
+    },
+    "_id": "335982_6"
+}
